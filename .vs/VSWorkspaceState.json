@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\sln\\vc10",
+    "\\src",
+    "\\test"
   ],
-  "SelectedNode": "\\D:\\Documents\\АиСД_Лабы\\mp2-lab1-set\\CMakeLists.txt\\test_set.exe (bin\\test_set.exe)",
+  "SelectedNode": "\\test\\test_tset.cpp",
   "PreviewInSolutionExplorer": false
 }
